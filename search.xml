@@ -157,9 +157,9 @@
             
             <tag> algorithm </tag>
             
-            <tag> BFS </tag>
-            
             <tag> DFS </tag>
+            
+            <tag> BFS </tag>
             
         </tags>
       
@@ -213,11 +213,11 @@
             
             <tag> algorithm </tag>
             
-            <tag> BFS </tag>
+            <tag> Graph </tag>
             
             <tag> DFS </tag>
             
-            <tag> Graph </tag>
+            <tag> BFS </tag>
             
         </tags>
       
